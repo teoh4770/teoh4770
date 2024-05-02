@@ -7,7 +7,7 @@ Here is my portfolio site: https://cheekianteoh.me/
 🖥️ I’m currently also working with [HawkHacks](https://hawkhacks.ca/), the official student-run hackathon of Wilfrid Laurier University as a frontend developer. (The number of HawkHacks' applicants are growing fast!)
 
 🤓 Here are some projects I want to get done by 2024:
-  - [X] Pomotama
+  - [X] Pomotama (90% done, need to implement things that differentiate from the original app)
   - [ ] Notion Clone
   - [ ] ...planning
 > When building the app, make sure most of the apps aligned with your curent learning goals.
@@ -16,7 +16,7 @@ Here is my portfolio site: https://cheekianteoh.me/
 
 👉 These are the things that I want to have a better understanding in 2024:
   - React
-  - Software Testing
+  - Software Testing (ongoing)
   - PHP & Laravel
   - Restful API
   - Full stack web development (focus more on the frontend side for sure)
