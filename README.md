@@ -13,6 +13,8 @@ Here is my portfolio site: https://cheekianteoh.me/
 > When building the app, make sure most of the apps aligned with your curent learning goals.
 > 
 > Think from the company's perspective, like how the app you build actually aligned with the companie's current value.
+>
+> A frontend developer is someone who made a conscious choice to build interfaces for the unknown with a laser sharp focus on the end user’s experience.
 
 👉 These are the things that I want to have a better understanding in 2024:
   - React
