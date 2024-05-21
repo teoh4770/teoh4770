@@ -8,7 +8,7 @@ Here is my portfolio site: https://cheekianteoh.me/
 
 🤓 Here are some projects I want to get done by 2024:
   - [X] Pomotama (90% done, need to implement things that differentiate from the original app)
-  - [ ] Deadlines (ongoing)
+  - [X] Deadlines (80% done, need to implement things that differentiate from the original app)
   - [ ] Notion Clone
 
 > Note for future self:
