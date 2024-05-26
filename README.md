@@ -20,13 +20,13 @@ Here is my portfolio site: https://cheekianteoh.me/
 > A frontend developer is someone who made a conscious choice to build interfaces for the unknown with a laser sharp focus on the end user’s experience.
 
 👉 These are the things that I want to have a better understanding in 2024:
-  - React
-  - Software Testing (ongoing)
-  - PHP & Laravel
-  - Restful API
-  - Full stack web development (focus more on the frontend side for sure)
-  - Comprehensive understanding of web architecture (while learning Laravel)
-  - Build a complete meaningful app from planning to executing
+  - [ ]React
+  - [ ]Software Testing (ongoing)
+  - [ ]PHP & Laravel
+  - [ ]Restful API
+  - [ ]Full stack web development (focus more on the frontend side for sure)
+  - [ ]Comprehensive understanding of web architecture (while learning Laravel)
+  - [ ]Build a complete meaningful app from planning to executing
 
 📫 How to reach me:
   - LinkedIn: https://www.linkedin.com/in/cheekianteoh/
