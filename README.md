@@ -22,7 +22,7 @@ Here is my portfolio site: https://cheekianteoh.me/
 👉 These are the things that I want to have a better understanding in 2024:
   - [ ] React
   - [ ] Software Testing (ongoing)
-  - [ ] PHP & Laravel
+  - [ ] PHP & Laravel (ongoing)
   - [ ] Restful API
   - [ ] Full stack web development (focus more on the frontend side for sure)
   - [ ] Comprehensive understanding of web architecture (while learning Laravel)
