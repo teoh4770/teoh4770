@@ -23,7 +23,7 @@ Here is my portfolio site: https://cheekianteoh.me/
   - [ ] React
   - [ ] Software Testing (ongoing)
   - [ ] PHP & Laravel (ongoing)
-  - [ ] Restful API ([link](https://www.youtube.com/watch?v=b8ZUb_Okxro))
+  - [ ] Restful API ([link](https://www.youtube.com/watch?v=b8ZUb_Okxro)(CRUD, using existing project, refer to keat's project as a reference, using express, postgres)
   - [ ] Full stack web development (focus more on the frontend side for sure)
   - [ ] Comprehensive understanding of web architecture (while learning Laravel)
   - [ ] Build a complete meaningful app from planning to executing
