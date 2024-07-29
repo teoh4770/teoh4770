@@ -28,11 +28,6 @@ Here is my portfolio site: https://cheekianteoh.me/
   - [ ] Comprehensive understanding of web architecture (while learning Laravel)
   - [ ] Build a complete meaningful app from planning to executing
 
-📫 How to reach me:
-  - LinkedIn: https://www.linkedin.com/in/cheekianteoh/
-  - Gmail: cheekianteoh0306@gmail.com
-  - Outlook: teoh4770@mylaurier.ca
-
 💬 If you want to collaborate with me on the open-source project that I'm working on, or if you just want to talk about anything frontend or web development related, just send me a message on LinkedIn. I will definitely get back to you.
 
 ⚡ Fun facts:
