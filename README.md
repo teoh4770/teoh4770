@@ -1,4 +1,4 @@
-👋 Hi, I'm CK! I'm currently a senior computer science student at Wilfrid Laurier University 🏫 and a self-taught software developer learnt to build techs that make people's life easier through innovative and cost-effective web applications and software solutions.
+👋 Hi, I'm CK! I'm currently a senior computer science student at Wilfrid Laurier University 🏫 and a self-taught software developer. I strive to make people's lives easier through innovative and cost-effective web applications and software solutions.
 
 ## About Me
 I thrive on problem-solving and am curious about building applications from scratch. My core values are caring, curiosity, and a desire to improve. Tech can be daunting, but my eagerness to learn helps me adapt. My passion lies in developing software solutions that not only solve problems but also make people's lives easier, no matter how small the effect.
