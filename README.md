@@ -1,36 +1,34 @@
-### Hi there 👋, my name is CK.
+👋 Hi, I'm CK! I'm currently a senior computer science student at Wilfrid Laurier University 🏫 and a self-taught software developer learnt to build techs that make people's life easier through innovative and cost-effective web applications and software solutions.
 
-Here is my portfolio site: https://cheekianteoh.me/
+## About Me
+I thrive on problem-solving and am curious about building applications from scratch. My core values are caring, curiosity, and a desire to improve. Tech can be daunting, but my eagerness to learn helps me adapt. My passion lies in developing software solutions that not only solve problems but also make people's lives easier, no matter how small the effect.
 
-🔭 I’m currently working on [Pomotama](https://pomotama.netlify.app/), my favourite Pomodoro timer app inspired by [Pomofocus.io](https://pomofocus.io/). (It's open-source!)
+## Technical Skills🛠️
+- Languages: JavaScript, TypeScript, PHP, SQL
+- Frameworks & Libraries: React, Laravel, Node.js, TailwindCSS, Vitess
+- Tools & Platforms: Github, Figma, Vite, Netlify
+- Computer Science: Proficient in data structure & algorithm and programming best practices, applying these to optimize the programming outcome.
 
-🖥️ I’m currently also working with [HawkHacks](https://hawkhacks.ca/), the official student-run hackathon of Wilfrid Laurier University as a frontend developer. (The number of HawkHacks' applicants are growing fast!)
+## Key Projects📚
+- [Pomotama](https://pomotama.netlify.app/): A customizable pomodoro timer that works on both desktop and mobile browser, helping you manage your time and focus on your tasks.
+- [DueTrack](https://duetrack.netlify.app/): A deadline tracker to keep track of any task's due date, helping you stay accountable.
+- [Backstage Talks Magazine Archive](https://github.com/teoh4770/FP-backstage-talks-magazine-archive-mock-up): A mockup of the actual [Backstage Talks](https://backstagetalks.com/) website archive.
 
-🤓 Here are some projects I want to get done by 2024:
-  - [X] Pomotama (90% done, need to implement things that differentiate from the original app)
-  - [X] Deadlines (80% done, need to implement things that differentiate from the original app)
-  - [ ] Notion Clone
+You can view these and more [here](https://cheekianteoh.me/).
 
-> Note for future self:
->
-> When building the app, make sure most of the apps aligned with your curent learning goals.
-> 
-> Think from the company's perspective, like how the app you build actually aligned with the companie's current value.
->
-> A frontend developer is someone who made a conscious choice to build interfaces for the unknown with a laser sharp focus on the end user’s experience.
+## Achievements That I'm Proud Of 🌟
+- Working with a team of 10 developers at [HawkHacks](https://hawkhacks.ca/), a student-run hackathon organization at Wilfrid Laurier University, primarily contributing to its complex landing page, which has garnered over 10,000 visitors and achieved a 10% conversion rate.
+- Planned, designed and built a machine user interface for [Nfinite Nanotech](https://www.nfinitenano.com/), a startup advanced material company that makes smart nanocoating for sustainable packaging.
 
-👉 These are the things that I want to have a better understanding in 2024:
-  - [ ] React
-  - [ ] Software Testing (ongoing)
-  - [ ] PHP & Laravel (ongoing)
-  - [ ] Restful API ([link](https://www.youtube.com/watch?v=b8ZUb_Okxro)(CRUD, using existing project, refer to keat's project as a reference, using express, postgres)
-  - [ ] Full stack web development (focus more on the frontend side for sure)
-  - [ ] Comprehensive understanding of web architecture (while learning Laravel)
-  - [ ] Build a complete meaningful app from planning to executing
+## Professional Goal 🚀
+- **Career Development**: After realizing how limited I was by focusing mainly on frontend development while working in a team, I decided to shift my focus from purely frontend to full-stack software development, learning new technologies along the way.
+- **Became a Great Developer**: Committed to ongoing upskilling to eventually become a developer people can rely on and turn to with their software development questions.
+- **No Zero Day**: Regardless of how busy I am, I ensure to make effort towards my goals every single day.
 
-💬 If you want to collaborate with me on the open-source project that I'm working on, or if you just want to talk about anything frontend or web development related, just send me a message on LinkedIn. I will definitely get back to you.
+## Connect With Me 📬
+- 📫 [Email](mailto:teoh4770@mylaurier.ca)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/cheekianteoh/)
 
-⚡ Fun facts:
-  - I helped a collaborator of Pomotama complete his first pull request recently, which is awesome.
-  - I joined a few online software communities such as [Little Software Planet](https://littlesoftwareplanet.com/) and [Software Developer Comminuty](https://www.skool.com/software-developer-academy) where I met a lot of awesome people.
-  - I started to attend a few local tech meetups, which is not as scary as I thought.
+I would love to make friends who love to talk about tech in general, or collaborating on projects that are fun, innovative and interesting. Let's connect! 🌍
+
+P.S. I'm a nerd too (>‿◠)✌
