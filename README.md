@@ -12,7 +12,6 @@ I thrive on problem-solving and am curious about building applications from scra
 ## Key Projects📚
 - [Pomotama](https://pomotama.netlify.app/): A customizable pomodoro timer that works on both desktop and mobile browser, helping you manage your time and focus on your tasks.
 - [DueTrack](https://duetrack.netlify.app/): A deadline tracker to keep track of any task's due date, helping you stay accountable.
-- [Backstage Talks Magazine Archive](https://teoh4770.github.io/FP-backstage-talks-magazine-archive-mock-up/): A mockup of the actual [Backstage Talks](https://backstagetalks.com/) website archive.
 
 You can view these and more [here](https://cheekianteoh.me/).
 
