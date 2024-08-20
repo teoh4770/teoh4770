@@ -16,7 +16,7 @@ I thrive on problem-solving and am curious about building applications from scra
 You can view these and more [here](https://cheekianteoh.me/).
 
 ## Achievements That I'm Proud Of 🌟
-- Working at [HawkHacks](https://hawkhacks.ca/), a student-run hackathon organization at Wilfrid Laurier University, primarily contributing to its complex landing page, which attracted over 10,000 visitors and achieved a 10% conversion rate.
+- Worked at [HawkHacks](https://hawkhacks.ca/), a student-run hackathon organization at Wilfrid Laurier University, primarily contributing to its complex landing page, which attracted over 10,000 visitors and achieved a 10% conversion rate.
 - Planned, designed and built a machine user interface for [Nfinite Nanotech](https://www.nfinitenano.com/), a startup advanced material company that makes smart nanocoating for sustainable packaging.
 
 ## Professional Goal 🚀
