@@ -5,7 +5,7 @@ I thrive on problem-solving and am curious about building applications from scra
 
 ## Technical Skills🛠️
 - Languages: JavaScript, TypeScript, PHP, SQL
-- Frameworks & Libraries: React, Laravel, Node.js, TailwindCSS, Vitess
+- Frameworks & Libraries: React, Laravel, Node.js, TailwindCSS, Vitest
 - Tools & Platforms: Github, Figma, Vite, Netlify
 - Computer Science: Proficient in data structure & algorithm and programming best practices, applying these to optimize the programming outcome.
 
