@@ -1,33 +1,27 @@
-👋 Hi, I'm CK! I'm currently a **senior computer science student** at Wilfrid Laurier University 🏫 and a **self-taught software developer**. I strive to make people's lives easier through innovative and cost-effective web applications and software solutions.
+Hi, I'm CK! I'm a Software Developer and a Computer Science student at Wilfrid Laurier University (Expected 2027). I am on a mission to create innovative, cost-effective web applications that genuinely make people's lives easier.
 
 ## About Me
-I thrive on problem-solving and am curious about building applications from scratch. My core values are caring, curiosity, and a desire to improve. Tech can be daunting, but my eagerness to learn helps me adapt. My passion lies in developing software solutions that not only solve problems but also make people's lives easier, no matter how small the effect.
+Since self-teaching frontend development in 2022, I have continuously honed my problem-solving skills to build production-ready, full-system architectures. I stay true to my core values of curiosity, caring, and a commitment to improvement. Whether I am translating complex client specifications into robust backend systems or executing large-scale UI framework migrations, I thrive on building adaptable, user-centric software.
 
-## Technical Skills🛠️
-- Languages: JavaScript, TypeScript, PHP, SQL
-- Frameworks & Libraries: React, Laravel, Node.js, TailwindCSS, Vitest
-- Tools & Platforms: Github, Figma, Vite, Netlify
-- Computer Science: Proficient in data structure & algorithm and programming best practices, applying these to optimize the programming outcome.
+## Technical Skills
+- **Languages:** JavaScript, TypeScript, PHP, SQL
+- **Frontend:** Vue.js, React, TailwindCSS, Inertia.js
+- **Backend:** Laravel, Node.js, MySQL
+- **Testing & DevOps:** Test-Driven Development (TDD), PHPUnit, PEST, Vitest, Playwright, CI/CD
 
-## Key Projects📚
-- [Pomotama](https://pomotama.netlify.app/): A customizable pomodoro timer that works on both desktop and mobile browser, helping you manage your time and focus on your tasks.
-- [DueTrack](https://duetrack.netlify.app/): A deadline tracker to keep track of any task's due date, helping you stay accountable.
+## Key Milestones & Achievements
+- **Full-Stack Consultancy:** Worked as a Software Developer Co-op at [Vehikl](https://vehikl.com/), engineering adaptable data crawling pipelines for AI platforms and executing a major frontend migration (Buefy to PrimeVue) for a learning management system ahead of schedule.
+- **Community Platform Engineering:** Built the client-facing site for [HawkHacks](https://hawkhacks.ca/), a student-run hackathon organization, successfully attracting and registering over 1,000 participants.
+- **End-to-End UI Leadership:** Directed the planning, design, and execution of a dynamic machine user interface alongside a backend engineer for [Nfinite Nanotech](https://www.nfinitenano.com/), a sustainable packaging startup.
 
-You can view these and more [here](https://cheekianteoh.me/).
+## Featured Project
+- **[Reflect](https://github.com/teoh4770/reflect):** An installable Progressive Web App (PWA) designed as a digital accountability mirror. Built with Vue 3, Inertia.js, and Laravel 11, it utilizes OpenAI for background audio transcription and Firebase Cloud Messaging for scheduled reflection interrupts.
+- **[Pomotama](https://pomotama.netlify.app/):** A customizable Pomodoro timer single-page application (SPA) that works on both desktop and mobile browsers, providing focused work intervals and to-do trackers.
+- **Bookshelf:** *(Coming soon!)*
 
-## Achievements That I'm Proud Of 🌟
-- Worked at [HawkHacks](https://hawkhacks.ca/), a student-run hackathon organization at Wilfrid Laurier University, primarily contributing to its complex landing page, which attracted over 10,000 visitors and achieved a 10% conversion rate.
-- Planned, designed and built a machine user interface for [Nfinite Nanotech](https://www.nfinitenano.com/), a startup advanced material company that makes smart nanocoating for sustainable packaging.
+## Connect With Me
+- [Email](mailto:teoh4770@mylaurier.ca)
+- [LinkedIn](https://www.linkedin.com/in/cheekianteoh/)
+- [Portfolio](https://cheekianteoh.me/)
 
-## Professional Goal 🚀
-- **Career Development**: After realizing how limited I was by focusing mainly on frontend development while working in a team, I decided to shift my focus from purely frontend to full-stack software development, learning new technologies along the way.
-- **Became a Great Developer**: Committed to ongoing upskilling to eventually become a developer people can rely on and turn to with their software development questions.
-- **No Zero Day**: Regardless of how busy I am, I ensure to make effort towards my goals every single day.
-
-## Connect With Me 📬
-- 📫 [Email](mailto:teoh4770@mylaurier.ca)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/cheekianteoh/)
-
-I would love to make friends who love to talk about tech in general, or collaborating on projects that are fun, innovative and interesting. Let's connect! 🌍
-
-P.S. I'm a nerd too (>‿◠)✌
+I would love to make friends who love to talk about tech in general, or collaborating on projects that are fun, innovative and interesting. Let's connect!
