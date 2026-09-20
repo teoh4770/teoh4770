@@ -1,4 +1,4 @@
-Hi, I'm CK! I'm a Software Developer and a Computer Science student at Wilfrid Laurier University (Expected 2027). I am on a mission to create innovative, cost-effective web applications that genuinely make people's lives easier.
+Hi, I'm CK, a Software Developer and a Computer Science student at Wilfrid Laurier University (Expected 2027). I am on a mission to create innovative, cost-effective web applications that genuinely make people's lives easier.
 
 ## About Me
 Since self-teaching frontend development in 2022, I have continuously honed my problem-solving skills to build production-ready, full-system architectures. I stay true to my core values of curiosity, caring, and a commitment to improvement. Whether I am translating complex client specifications into robust backend systems or executing large-scale UI framework migrations, I thrive on building adaptable, user-centric software.
