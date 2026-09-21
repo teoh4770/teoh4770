@@ -11,7 +11,7 @@ Since self-teaching frontend development in 2022, I have continuously honed my p
 
 ## Key Milestones & Achievements
 - **Full-Stack Consultancy:** Worked as a Software Developer Co-op at [Vehikl](https://vehikl.com/), engineering adaptable data crawling pipelines for AI platforms and executing a major frontend migration (Buefy to PrimeVue) for a learning management system ahead of schedule.
-- **Community Platform Engineering:** Built the client-facing site for [HawkHacks](https://hawkhacks.ca/), a student-run hackathon organization, successfully attracting and registering over 1,000 participants.
+- **Community Platform Engineering:** Built the client-facing site for HawkHacks, a student-run hackathon organization, successfully attracting and registering over 1,000 participants.
 - **End-to-End UI Leadership:** Directed the planning, design, and execution of a dynamic machine user interface alongside a backend engineer for [Nfinite Nanotech](https://www.nfinitenano.com/), a sustainable packaging startup.
 
 ## Connect With Me
