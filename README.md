@@ -14,11 +14,6 @@ Since self-teaching frontend development in 2022, I have continuously honed my p
 - **Community Platform Engineering:** Built the client-facing site for [HawkHacks](https://hawkhacks.ca/), a student-run hackathon organization, successfully attracting and registering over 1,000 participants.
 - **End-to-End UI Leadership:** Directed the planning, design, and execution of a dynamic machine user interface alongside a backend engineer for [Nfinite Nanotech](https://www.nfinitenano.com/), a sustainable packaging startup.
 
-## Featured Project
-- **[Reflect](https://github.com/teoh4770/reflect):** An installable Progressive Web App (PWA) designed as a digital accountability mirror. Built with Vue 3, Inertia.js, and Laravel 11, it utilizes OpenAI for background audio transcription and Firebase Cloud Messaging for scheduled reflection interrupts.
-- **[Pomotama](https://pomotama.netlify.app/):** A customizable Pomodoro timer single-page application (SPA) that works on both desktop and mobile browsers, providing focused work intervals and to-do trackers.
-- **Bookshelf:** *(Coming soon!)*
-
 ## Connect With Me
 - [Email](mailto:teoh4770@mylaurier.ca)
 - [LinkedIn](https://www.linkedin.com/in/cheekianteoh/)
