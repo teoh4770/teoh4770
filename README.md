@@ -17,6 +17,6 @@ Since self-teaching frontend development in 2022, I have continuously honed my p
 ## Connect With Me
 - [Email](mailto:teoh4770@mylaurier.ca)
 - [LinkedIn](https://www.linkedin.com/in/cheekianteoh/)
-- [Portfolio](https://cheekianteoh.me/)
+- [Resume](https://drive.google.com/file/d/1I3j5HeXpuqQsxZYbs1KW6unIiTKZMi9i/view?usp=drive_link)
 
 I would love to make friends who love to talk about tech in general, or collaborating on projects that are fun, innovative and interesting. Let's connect!
